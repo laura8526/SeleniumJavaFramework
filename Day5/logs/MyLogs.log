@@ -1,0 +1,8 @@
+[INFO ] 2022-06-08 14:24:30.937 [main] Log4jDemo - This is information message
+[ERROR] 2022-06-08 14:24:30.940 [main] Log4jDemo - This is an error message
+[WARN ] 2022-06-08 14:24:30.940 [main] Log4jDemo - This is an warning message
+[FATAL] 2022-06-08 14:24:30.940 [main] Log4jDemo - This is a fatal message
+[INFO ] 2022-06-08 14:31:59.098 [main] Log4jDemo - This is information message
+[ERROR] 2022-06-08 14:31:59.101 [main] Log4jDemo - This is an error message
+[WARN ] 2022-06-08 14:31:59.101 [main] Log4jDemo - This is an warning message
+[FATAL] 2022-06-08 14:31:59.101 [main] Log4jDemo - This is a fatal message

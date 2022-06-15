@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T17:04:34 IST" name="Default suite" finished-at="2022-06-15T17:04:58 IST" duration-ms="23428">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T17:04:34 IST" name="Default test" finished-at="2022-06-15T17:04:58 IST" duration-ms="23428">
+      <class name="recordTests.RecordTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:recordTests.RecordTest@5ba3f27a]" started-at="2022-06-15T17:04:34 IST" name="setUp" finished-at="2022-06-15T17:04:40 IST" duration-ms="6059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUntitledTestCase()[pri:0, instance:recordTests.RecordTest@5ba3f27a]" started-at="2022-06-15T17:04:40 IST" name="testUntitledTestCase" finished-at="2022-06-15T17:04:57 IST" duration-ms="16166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:recordTests.RecordTest@5ba3f27a]" started-at="2022-06-15T17:04:57 IST" name="tearDown" finished-at="2022-06-15T17:04:58 IST" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- recordTests.RecordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
